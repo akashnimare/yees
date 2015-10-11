@@ -1,0 +1,37 @@
+{
+  "name": "yees",
+  "version": "1.0.0",
+  "description": "Capture screenshot",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+"repository": {
+    "type": "git",
+    "url": "git://github.com/akashnimare/yees.git"
+  },
+  "keywords": [
+    "Capture",
+    "Screenshot",
+    "command line tool"
+  ],
+  "author": {
+    "name": "Akash Nimare"
+  },
+  "bugs": {
+    "url": "https://github.com/akashnimare/yees/issues"
+  },
+  "homepage": "https://github.com/akashnimare/yees",
+  "dependencies": {
+  "yargs":"3.27.0",
+  "phantomjs":"1.9.8",
+  "url-to-screenshot":"0.6.0",
+  "fs":"0.0.2"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "yees": "index.js"
+  }
+}
+
+
+  
