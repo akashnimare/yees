@@ -1,9 +1,9 @@
 ## Yees
  
- <img style="text-align:center" src="logo.png" width="350"/>
+<img style="text-align:center" src="logo.png" width="350"/>
 
 ## WTF?
-Yees capture awesome screenshots of any url.
+Yees capture awesome screenshots.
 
 ## Installation
 ```
